@@ -15,6 +15,8 @@ Data-Driven Testing
 Jenkins ready
 Git version control
 📁 Project Structure
+
+
 TestAutomationFramework
 │
 ├── drivers/                # WebDriver binaries
